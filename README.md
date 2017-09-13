@@ -1,1 +1,2 @@
-# subtitle-synchronization
+# Automatic Subtitle Synchronization
+
